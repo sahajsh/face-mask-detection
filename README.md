@@ -19,7 +19,4 @@ https://youtu.be/_JDvJIrh15c
 
 
 
-## Screenshots
-    ()
-![Demo](https://drive.google.com/file/d/105GhgQe7HesLOunio_eulz8_barG-ipx/view?usp=sharing)
 
